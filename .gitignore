@@ -1,0 +1,7 @@
+/.vs
+obj
+bin
+build
+/packages
+/build.zip
+*.user
